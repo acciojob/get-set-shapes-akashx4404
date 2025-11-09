@@ -28,3 +28,4 @@ class Square extends Rectangle {
     return 4 * this._side;
   }
 }
+
