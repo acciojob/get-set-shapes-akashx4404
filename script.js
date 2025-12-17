@@ -1,4 +1,4 @@
-//complete this code
+// complete this code
 class Rectangle {
   constructor(width, height) {
     this._width = width;
@@ -28,4 +28,3 @@ class Square extends Rectangle {
     return 4 * this._side;
   }
 }
-
